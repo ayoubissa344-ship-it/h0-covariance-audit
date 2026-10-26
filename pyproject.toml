@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "h0audit"
+version = "1.0.0"
+description = "Covariance-sensitivity tools for summary-level Hubble-constant compilations"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Ayoub Issa" }]
+dependencies = ["numpy>=1.24"]
+[project.optional-dependencies]
+figures = ["matplotlib>=3.7"]
+[tool.setuptools.packages.find]
+where = ["python/src"]

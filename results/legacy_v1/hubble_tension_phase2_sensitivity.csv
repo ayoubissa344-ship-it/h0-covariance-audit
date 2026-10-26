@@ -1,0 +1,4 @@
+scenario,n_comparison_estimates,comparison_mean_km_s_Mpc,comparison_SE_km_s_Mpc,absolute_group_difference_km_s_Mpc,nominal_Z,note
+all 58 comparison estimates,58,69.5205256509667,0.4203840061846907,2.781504344609502,3.9215079344564505,"baseline; rho_ladder=0.40, rho_comparison=0.15"
+exclude seminar-reported 69.37 +/- 0.65,57,69.58431547712688,0.5244121637737744,2.717714518449327,3.504514188082633,provenance-rule sensitivity only
+exclude both Pogosian entries,56,70.14485682303136,0.5998905823169004,2.1571731725448444,2.604026952871262,exploratory family-removal diagnostic only

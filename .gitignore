@@ -1,0 +1,6 @@
+build/
+__pycache__/
+*.pyc
+*.egg-info/
+data/h0_compilation.csv
+paper/*.aux paper/*.log paper/*.bbl paper/*.blg paper/*.fls paper/*.fdb_latexmk paper/*.out

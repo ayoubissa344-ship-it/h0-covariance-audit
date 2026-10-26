@@ -1,0 +1,91 @@
+# PROVISIONAL reconstruction from Appendix A of arXiv:2601.00650v2 (see scripts/reconstruct_from_paper.py, docs/reconstruction.md).
+# status: exact | symmetrised (RMS of asymmetric errors) | approx (one error component estimated). Authoritative table: `make data`.
+id,group,h0,sigma,label,status
+L01,L,73.3,4.0,Huang 2019,exact
+L02,L,75.8,5.1,de Jaeger 2020,exact
+L03,L,76.0,2.5,Kourkchi 2020,exact
+L04,L,70.5,4.13,Khetan 2021,exact
+L05,L,73.3,2.5,Blakeslee 2021,exact
+L06,L,69.8,1.7,Freedman 2021,exact
+L07,L,76.94,6.4,Dhawan 2022 (a),exact
+L08,L,73.1,2.5,Kenworthy 2022,exact
+L09,L,70.92,1.88,Dhawan 2022 (b),exact
+L10,L,74.82,1.28,Dhawan 2022 (c),exact
+L11,L,73.22,2.06,Scolnic 2023,exact
+L12,L,74.1,8.0,de Jaeger 2023,exact
+L13,L,71.76,1.32,Uddin 2023 (a),exact
+L14,L,73.22,1.45,Uddin 2023 (b),exact
+L15,L,72.37,2.97,Huang 2023,exact
+L16,L,74.7,3.1,Li 2024,exact
+L17,L,73.1,2.3,Chavez 2024,exact
+L18,L,73.3,4.1,Boubel 2024,exact
+L19,L,67.8,2.72,Lee 2024,exact
+L20,L,72.05,3.6,Freedman 2024,exact
+L21,L,76.05,4.9,Said 2024,exact
+L22,L,75.5,3.8,Zhang 2024,exact
+L23,L,73.8,2.4,Jensen 2025,exact
+L24,L,70.59,1.15,Wojtak 2025,exact
+L25,L,73.06,2.6,Bhardwaj 2025,exact
+L26,L,75.3,2.9,Newman 2025,exact
+L27,L,73.49,0.93,Riess 2025,exact
+L28,L,76.2,6.2,Kudritzki 2025,exact
+L29,L,68.0,8.0,Wagner 2025,exact
+L30,L,72.61,1.69,Lapuente 2025,exact
+R01,R,68.81,4.67167,Wu 2021,symmetrised
+R02,R,68,7.071068,Abbott 2021,approx
+R03,R,77.1,7.200694,Shajib 2023,symmetrised
+R04,R,74.1,8.0,Napier 2023,exact
+R05,R,66.6,3.721559,Kelly 2023,symmetrised
+R06,R,61.9,2.661766,Dominguez 2023,symmetrised
+R07,R,65.5,5.966993,Gao 2023,approx
+R08,R,59.1,3.550352,Liu 2023 (QSO cluster),symmetrised
+R09,R,86,50.700099,Fung 2023,approx
+R10,R,74,11.18034,Martinez 2023,symmetrised
+R11,R,85.4,31.591296,Ballard 2023,symmetrised
+R12,R,66.7,5.3,Moresco 2023,exact
+R13,R,68.84,12.256992,Alfradique 2024,symmetrised
+R14,R,66.2,3.353357,Grillo 2024,symmetrised
+R15,R,71.8,8.667468,Pascale 2024,symmetrised
+R16,R,73.0,11.112605,Hernandez 2024,symmetrised
+R17,R,70.4,12.685622,Bom 2024,symmetrised
+R18,R,65,19.039433,TDCOSMO XVI 2024,symmetrised
+R19,R,68.81,5.64,Gao 2024,exact
+R20,R,66,5,Li 2024 (lensing),exact
+R21,R,74.0,7.35153,Yang 2024,symmetrised
+R22,R,65.1,7.4,Piratova-Moreno 2025,exact
+R23,R,73.5,2.950424,Barua 2025,symmetrised
+R24,R,75,30,Zhang 2025 (FRB),exact
+R25,R,86.18,16.579822,Gao 2025 (FRB),symmetrised
+R26,R,54.6,26.3,Loubser 2025,exact
+R27,R,79,9,Beirnaert 2025,exact
+R28,R,74.0,5.66083,Bahr-Kalus 2025 (LCDM),approx
+R29,R,71.6,3.612478,Birrer 2025,symmetrised
+R30,R,66.0,4.3,Liu 2025,exact
+R31,R,66.9,9.773689,Pierel 2025,symmetrised
+R32,R,64.2,5.414795,Paic 2025,approx
+R33,R,67.9,4.350287,Oliveira 2026,symmetrised
+R34,R,68,9,Kuo 2013,exact
+R35,R,66,6,Gao 2015,exact
+R36,R,69.6,5.5,Bulla 2022,exact
+R37,R,65.9,3.0,Zhang 2022,exact
+R38,R,71.5,3.8,Du 2023,exact
+R39,R,75.46,5.365058,Palmese 2023,symmetrised
+R40,R,67.0,3.6,Sneppen 2023,exact
+R41,R,72.9,2.155226,Liu 2023 (lensing+SNe),symmetrised
+R42,R,72.7,5.960285,Gonzalez 2024,symmetrised
+R43,R,66.3,3.701351,Li 2024 (Refsdal),symmetrised
+R44,R,66.9,9.786981,Jaiswal 2024,approx
+R45,R,74.9,2.7,Vogl 2024,exact
+R46,R,70.4,6.92246,Song 2025,symmetrised
+R47,R,70.55,7.44,Colaco 2025,exact
+R48,R,71.59,0.94,Du 2025,exact
+R49,R,68.8,3.0,Favale 2025,exact
+R50,R,61,18,Reese 2003,exact
+R51,R,64.8,2.354782,Philcox 2022,symmetrised
+R52,R,67.22,6.07,Colaco 2023,exact
+R53,R,68.05,0.94,Pogosian 2024 (pre-DESI),exact
+R54,R,69.37,0.65,Pogosian 2025 (DESI DR2),exact
+R55,R,65.2,5.587933,Bahr-Kalus 2025 (CMB-NSH),symmetrised
+R56,R,70.03,0.97,Garcia 2025,exact
+R57,R,70.8,2.10238,Zaborowski 2025,symmetrised
+R58,R,69.0,2.5,Krolewski 2025,exact

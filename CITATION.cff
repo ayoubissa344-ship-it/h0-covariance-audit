@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "h0-covariance-audit: covariance-sensitivity tools for summary-level H0 compilations"
+version: 1.0.0
+date-released: 2026-10-25
+license: MIT
+authors:
+  - family-names: Issa
+    given-names: Ayoub
+    orcid: "https://orcid.org/0009-0006-9500-1883"
+repository-code: "https://github.com/<your-account>/h0-covariance-audit"
+keywords: [Hubble constant, covariance, meta-analysis, generalised least squares, reproducibility]

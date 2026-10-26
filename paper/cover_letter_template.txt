@@ -1,0 +1,14 @@
+Dear Editor,
+
+Please consider the attached manuscript, “Provenance and covariance sensitivity in a summary-level comparison of sound-horizon-free Hubble-constant measurements,” as a research note on reproducibility and covariance assumptions in published H0 compilations.
+
+The manuscript provides a scoped audit of a recently published 88-entry compilation. It reproduces the summary-level inverse-variance and illustrative GLS calculations, records a source/version traceability mismatch for one high-weight entry, and quantifies the diagonal inverse-variance weight associated with three DESI DR2-input estimates. It explicitly distinguishes these diagnostics from a joint-likelihood reanalysis and does not claim that the Hubble tension is resolved or that the source paper is invalid.
+
+We believe the manuscript may be relevant to readers concerned with reproducible cosmological inference, dependent estimates, and the interpretation of summary-level significance. The analysis scripts and CSV diagnostics are included with the submission files.
+
+This manuscript is not under consideration elsewhere. The author declares no competing interests and received no dedicated funding for this work.
+
+Sincerely,
+Ayoub Issa
+Independent Researcher, Morocco
+ORCID: https://orcid.org/0009-0006-9500-1883

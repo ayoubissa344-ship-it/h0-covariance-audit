@@ -1,0 +1,4 @@
+estimator,ladder_mean,ladder_SE,comparison_mean,comparison_SE,nominal_Z,interpretation
+unrestricted GLS,72.30202999557613,0.5712933539406363,69.52052565096668,0.4203840061846905,3.9215079344563915,paper-style covariance GLS; allows negative coefficients
+fixed inverse-variance weights with covariance propagation,72.7324645382863,1.2036852256399215,69.37222619309622,0.7662656288403091,2.3549350972888186,unbiased fixed linear weights under common-mean premise; not minimum variance for full C
+nonnegative minimum-variance weights,72.82983865911717,0.8197946383136241,69.64095321556329,0.49920483707242724,3.3223528564667393,constrained quadratic diagnostic; weights >= 0

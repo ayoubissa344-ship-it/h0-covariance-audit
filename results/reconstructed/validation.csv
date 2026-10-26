@@ -1,0 +1,11 @@
+quantity,reconstructed,packaged,abs_diff
+IVW ladder mean,72.732465,72.732465,0.000000
+IVW ladder SE,0.385247,0.385247,0.000000
+IVW comparison mean,69.375633,69.372226,0.003406
+IVW comparison SE,0.345137,0.344887,0.000250
+GLS ladder mean,72.302030,72.302030,0.000000
+GLS ladder SE,0.571293,0.571293,0.000000
+GLS comparison mean,69.521464,69.520526,0.000939
+GLS comparison SE,0.420127,0.420384,0.000257
+negative weights ladder,16.000000,16.000000,0.000000
+negative weights comparison,38.000000,38.000000,0.000000
